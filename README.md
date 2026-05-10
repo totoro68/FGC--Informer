@@ -32,6 +32,7 @@ The experiments will be conducted on several public benchmark datasets, includin
 - ETT
 - Traffic
 - Electricity
+- Exchange
 
 ---
 
